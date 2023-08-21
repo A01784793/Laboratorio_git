@@ -10,4 +10,4 @@ volume = (side_length ** 3) / (6 * math.sqrt(2))
 volume = round(volume, 3)
 
 # Print result
-print("The volume of the tetrahedron is:", volume)
+print("The volume of the tetrahedron is:", volumen)
